@@ -19,7 +19,7 @@ public class DbHandler {
     public static Statement statement;
     public static ResultSet resultSet;
     private static final String filePath =
-            "C:\\Users\\tcmch\\OneDrive\\Desktop\\CROC\\wells\\src\\main\\resources\\files\\";
+            "";
 
     public static void connect() throws ClassNotFoundException, SQLException
     {
