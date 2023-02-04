@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wells>
+    <well id="1" name="abc">
+        <equipment id="19" name="8089ce92-b90e-4c57-a833-676676049dd8"/>
+        <equipment id="20" name="b466cad7-29ab-4d1f-8c7d-1380d4f006d3"/>
+        <equipment id="25" name="278d1933-875a-4484-852b-f56e0ad82db0"/>
+        <equipment id="26" name="3685de49-2e60-467b-9595-2c330550d2e0"/>
+    </well>
+    <well id="2" name="bca">
+        <equipment id="1" name="59b499db-e8bc-4be5-afc9-1bc6ab618a9b"/>
+        <equipment id="2" name="a7cc46a9-54d5-41c8-b6b0-c7323047db84"/>
+        <equipment id="3" name="9ee2a153-7f09-40aa-8d4e-ea3374dd030b"/>
+    </well>
+    <well id="3" name="cba">
+        <equipment id="4" name="d8bc4aa7-91a4-4c29-8a54-95d7f558d211"/>
+        <equipment id="5" name="a17ac1f1-a532-4699-a76f-223447a2a175"/>
+        <equipment id="6" name="9c549294-c2ad-4db8-9e3e-0a6cbac36db9"/>
+        <equipment id="7" name="75aa351d-e82d-43af-9eea-b31fa6d84dca"/>
+        <equipment id="8" name="29710721-545e-4870-8a24-949b4fa0a43a"/>
+    </well>
+    <well id="4" name="asdf">
+        <equipment id="9" name="f3d68d5a-cf29-42cd-b8d6-91ca0758fe29"/>
+        <equipment id="10" name="0c118222-9571-414e-a4ab-4f73f3068544"/>
+        <equipment id="11" name="a86686c8-9f7a-4d50-8a91-e39d7b720b4d"/>
+        <equipment id="12" name="10421f09-2930-4956-ab40-fafcb1d72f9a"/>
+        <equipment id="13" name="b2accafa-5ee0-4f78-9c20-ce91f48f670a"/>
+        <equipment id="14" name="2a47ddf7-0a95-462c-a28f-c6aa5af0e3d1"/>
+        <equipment id="15" name="c3d94dd9-37b1-466d-9b07-28c5a25f8c23"/>
+        <equipment id="16" name="b574019f-ab01-4f3e-8d8c-2fcdf0130556"/>
+        <equipment id="17" name="e43c0f63-39dd-4848-9159-00de025fd438"/>
+        <equipment id="18" name="ae294ce8-ca78-435e-9d7f-968758225b4e"/>
+    </well>
+    <well id="5" name="vgz">
+        <equipment id="21" name="45d97144-3733-4293-a660-73b521139925"/>
+        <equipment id="22" name="e8241c1d-f98f-41a1-8eaf-5321353a01f9"/>
+        <equipment id="23" name="0263b5fc-f02d-4da7-baf4-a26c53049ff7"/>
+        <equipment id="24" name="44de8615-3f45-4e87-bfad-20d9147be6bf"/>
+    </well>
+    <well id="6" name="zxc">
+        <equipment id="27" name="60412e78-9ceb-4efd-841e-f7882fcfa67c"/>
+        <equipment id="28" name="cd65eb51-931c-4f26-b499-583f176a402a"/>
+        <equipment id="29" name="6233dc2c-1149-444d-8fde-e686acabde94"/>
+        <equipment id="30" name="f7a01b99-32dc-433a-90b0-3200462226cd"/>
+    </well>
+</wells>
